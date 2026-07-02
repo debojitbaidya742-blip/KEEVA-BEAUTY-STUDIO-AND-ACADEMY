@@ -1,0 +1,6 @@
+{
+  "name": "Keeva Beauty Studio and Academy",
+  "description": "Premium luxury beauty salon and academy in Silchar, Assam, India. Offering world-class hair, skin, nail art, bridal makeup services, and professional courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
